@@ -22,3 +22,18 @@ BrainIQ is an engaging and interactive Android application designed to test and 
 1. Clone this repository:
    ```bash
    git clone https://github.com/V3nugopalKP/BrainIQ.git
+2. Open the project in **Android Studio**.
+3. Sync the Gradle files to ensure all dependencies are installed.
+4. Connect your Android device or start an emulator.
+5. Build and run the application on your device.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/dc16bf95-4804-4222-8f90-729324db0e0c)
+
+
+## Future Enhancements
+- Adding more diverse question categories and difficulty levels.
+- Introducing a leaderboard for users to compare scores.
+- Providing detailed feedback on correct and incorrect answers.
+- Adding support for multiple languages.
+- Implementing different modes, such as practice and timed challenges.
